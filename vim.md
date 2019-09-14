@@ -1,9 +1,23 @@
 # Vim Notes
 Simply because it's used so much...
 
-Think of Vim as **Verb + Noun** phrases designed for repeatability, for instance <kbd>d</kbd>+<kbd>w</kbd> represents delete + word. Use  <kbd>.</kbd> to repeat an action.
+![alt text][vimcheatsheet]
 
+[vimcheatsheet]: https://github.com/rryanedwards/magento/raw/master/resources/vim-shortcuts-dark_2560x1600.png "Vim Cheat Sheet"
 
+Think of Vim as **Verb + Noun** phrases designed for repeatability, for instance <kbd>d</kbd>+<kbd>w</kbd> represents delete + word. 
+
+Use  <kbd>.</kbd> to repeat an action. 
+
+Use  <kbd>u</kbd> to undo an action. 
+
+## Verbs
+### Basic
+
+Key | Action
+--- | ---
+`d` | delete
+`c` | change
 
 ## Nouns
 ### Text Objects
@@ -41,6 +55,11 @@ Very useful for commenting and indenting, use block visual iditor: <kbd>Control<
 Insert text on all lines use <kbd>Shift</kbd>+<kbd>I</kbd> and to delete on all lines use <kbd>d</kbd>
 
 ## Resources
+Markdown notes (meta/ non-vim) https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 Video about Vim https://www.youtube.com/watch?v=wlR5gYd6um0
 
 Text objects https://blog.carbonfive.com/2011/10/17/vim-text-objects-the-definitive-guide/
+
+
+{% changed magento/blob/master to magento/raw/master for image to load %}
