@@ -50,4 +50,5 @@ After making changes run `$ sudo systemctl restart httpd`
 
 ## Resources
 General setup https://www.mageplaza.com/devdocs/how-install-magento-2-centos.html
+
 Rewrite Module https://www.e2enetworks.com/help/knowledge-base/how-to-enable-mod_rewrite-on-apache-on-centos/
