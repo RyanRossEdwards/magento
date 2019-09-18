@@ -26,4 +26,5 @@ php ~/magento2/bin/magento cache:clean
 ```
 
 If the web browser is sending it to https
+
 Use Chrome, go to `chrome://net-internals/#hsts` and delete site, or switch to a new browser
