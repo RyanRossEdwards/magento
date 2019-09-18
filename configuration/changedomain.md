@@ -22,3 +22,5 @@ Use `:%s/olddomain.com/domain.com/gc` to replace olddomain.com with domain.com (
 May be a good idea setting `Use Secure URLs in Admin = No` if the site requires a new SSL certificate.
 
 Other changes may be required to get it working.
+
+See also `https.md` for more info.
