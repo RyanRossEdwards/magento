@@ -1,7 +1,7 @@
-# PhPStorm
-PhPStorm is an IDE for working on PhP, students can get an education license for free.
+# PhpStorm
+PhpStorm is an IDE for working on PhP, students can get an education license for free.
 
-## Setting Up PhPStorm (PS)
+## Setting Up PhpStorm (PS)
 
 Archive the magento2 file (local/ server backup)
 ```
