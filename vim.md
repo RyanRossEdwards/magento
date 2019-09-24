@@ -54,6 +54,9 @@ Very useful for commenting and indenting, use block visual iditor: <kbd>Control<
 
 Insert text on all lines use <kbd>Shift</kbd>+<kbd>I</kbd> and to delete on all lines use <kbd>d</kbd>
 
+### Find and Replace
+With confirmation use `:[range]s/search/replace/gc
+`
 ## Resources
 Markdown notes (meta/ non-vim) https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
